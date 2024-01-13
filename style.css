@@ -1,0 +1,19 @@
+#b1 {
+    background-image: url("bgimg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.song_name {
+box-shadow: 20px;
+padding: 20px;
+margin: 40px;
+}
+
+canvas {
+    border:2px solid black;
+    box-shadow: 5px 5px 5px black;
+    padding:30px;
+    margin: 40px;
+
+}
